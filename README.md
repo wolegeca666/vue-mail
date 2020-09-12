@@ -1,4 +1,4 @@
-# mail
+# vue practice
 
 ## Project setup
 ```
